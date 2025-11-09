@@ -1,0 +1,28 @@
+[
+  {
+    "url": "https://www.wired.com/story/women-in-tech-openai-board/",
+    "crawl": {
+      "loadedUrl": "https://www.wired.com/story/women-in-tech-openai-board/",
+      "loadedTime": "2023-11-28T18:57:36+00:00",
+      "httpStatusCode": 200
+    },
+    "aiSummary": {
+      "title": "Women in Tech Deny Joining All-Male OpenAI Board",
+      "summary": "- Prominent women in tech such as Timnit Gebru and Sasha Luccioni have declined invitations to join the all-male board of OpenAI, expressing concern over governance and transparency.\n- The gender imbalance has intensified public scrutiny about representation and accountability in AI leadership.\n- Critics argue that offering positions without addressing structural issues risks turning women’s participation into symbolic tokenism rather than real influence.",
+      "score": 85
+    },
+    "metadata": {
+      "canonicalUrl": "https://www.wired.com/story/women-in-tech-openai-board/",
+      "title": "Prominent Women in Tech Say They Don't Want to Join OpenAI's All-Male Board - WIRED",
+      "description": "After internal chaos earlier this month, OpenAI replaced women on its board with men, and some prominent women in tech are now declining offers to join.",
+      "image": "https://media.wired.com/photos/656536e8d812b41e0ad355d9/191:100/w_1280,c_limit/culture_openai_board_women.jpg",
+      "source": "WIRED",
+      "author": "Condé Nast",
+      "keywords": "artificial intelligence,openai,women in tech",
+      "published": "2023-11-28T18:57:36+00:00",
+      "languageCode": "en"
+    },
+    "title": "Prominent Women in Tech Say They Don't Want to Join OpenAI's All-Male Board - WIRED",
+    "text": "Prominent women in tech say they don't want to join OpenAI's all-male board, raising fresh questions about representation and governance at one of the world's most influential artificial intelligence companies. Their decisions highlight concerns that simply adding women to the board, without addressing deeper structural problems, would amount to tokenism rather than meaningful change..."
+  }
+]
