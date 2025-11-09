@@ -1,0 +1,9 @@
+{
+  "default_query": "artificial intelligence",
+  "region": "us-en",
+  "language": "en",
+  "max_articles": 10,
+  "hours_back": 24,
+  "request_timeout": 10,
+  "user_agent": "AdvancedNewsScraper/1.0 (+https://bitbash.dev)"
+}
